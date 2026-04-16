@@ -24,4 +24,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Router />
   </React.StrictMode>
 );
-import ChatWidget from './ChatWidget';
